@@ -1,5 +1,5 @@
 # SDSS Datathon 2026
-A data science competition submission for the **2026 Symposium on Data Science & Statistics (SDSS) Datathon**.
+A data science competition submission for the **2026 Symposium on Data Science & Statistics (SDSS) Datathon** (Best Model Award)
 
 ## Overview
 This repository contains Jupyter notebooks developed for the SDSS Datathon 2026. The project analyzes daily operational data from **Toronto's shelter and overnight services system** across 2024–2025, with the goal of assessing system pressure, capacity utilization, and operational risk across programs over time.
